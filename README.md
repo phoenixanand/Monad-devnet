@@ -7,7 +7,7 @@ Monad is a high-performance Ethereum-compatible L1. Monad materially advances th
 
 between decentralization and scalability.
 
-## Step 1:  Fork this contract
+## Step 1:  Fork this Repo
 
 ## Step 2: Open Gitpod and log in with GitHub
 
