@@ -80,10 +80,6 @@ Start verifying contract `0x1355a4f7829161a4d27BDb8970D32b89ef89A1Be`
 
 Submitting verification for [src/Counter.sol:Counter] 0x1355a4f7829161a4d27BDb8970D32b89ef89A1Be.
 
-Start verifying contract `0x1355a4f7829161a4d27BDb8970D32b89ef89A1Be`
-
-Submitting verification for [src/Counter.sol:Counter] 0x1355a4f7829161a4d27BDb8970D32b89ef89A1Be.
-
 Submitted contract for verification:
 
 Response: `OK`
